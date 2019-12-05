@@ -1,0 +1,25 @@
+﻿生成启动时间为 2019/4/6 15:31:08。
+     1>项目“E:\大一\C语言大作业\测试\student\student.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Debug\student.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         所有输出均为最新。
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         e:\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\大一\C语言大作业\测试\Debug\student.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\student.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\大一\C语言大作业\测试\Debug\student.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\大一\C语言大作业\测试\Debug\student.lib" /MACHINE:X86 Debug\student.exe.embed.manifest.res
+         Debug\add.obj
+         Debug\del.obj
+         Debug\login.obj
+         Debug\modify.obj
+         Debug\scan.obj
+         Debug\search.obj
+         Debug\select.obj
+         Debug\sort.obj
+         Debug\stu.obj
+     1>LINK : fatal error LNK1168: 无法打开 E:\大一\C语言大作业\测试\Debug\student.exe 进行写入
+     1>已完成生成项目“E:\大一\C语言大作业\测试\student\student.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:01.37
